@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 // ReactDOM => HTML nesneleri ile iletişimi sağlar
+import './index.css';
 import App from './App';
 
 //React ile Javascript arasındaki köprüyü yapar
